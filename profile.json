@@ -1,0 +1,313 @@
+{
+	"name":"Ritesh Kumar",
+	"designation":"Software Enginner 1",
+	"education":{
+		"graduation":{
+			"university_name":"Lovely Professional University",
+			"startDate":{
+				"month":8,
+				"day":8,
+				"year":2016
+			},
+			"endDate":{
+				"month":8,
+				"day":8,
+				"year":2020
+			},
+			"marks":"8.78",
+			"marks-type":"CGPA",
+			"marks-total":10,
+			"program_abrev":"B.tech CSE",
+			"program_fullForm":"Bachlar's in Technology",
+			"course":"Computer Science and Enginnering",
+			"affliation":"UGC",
+			"place":{
+				"dist":"Jalandhar",
+				"state":"Punjab",
+				"country":"India",
+				"zip-code":""
+			}
+		},
+
+		"class_12":{
+			"university_name":"Sant Atulanand Convent School",
+			"startDate":{
+				"month":3,
+				"day":1,
+				"year":2014
+			},
+			"endDate":{
+				"month":8,
+				"day":8,
+				"year":2015
+			},
+			"marks":87,
+			"marks-type":"Percentage",
+			"marks-total":100,
+			"program_abrev":"XII",
+			"program_fullForm":"Class 12",
+			"course":"PCM",
+			"affliation":"CBSE",
+			"place":{
+				"dist":"Varanasi",
+				"state":"Uttar Pradesh",
+				"country":"India",
+				"zip-code":""
+			}
+		},
+
+		"class_10":{
+			"university_name":"Sant Atulanand Convent School",
+			"startDate":{
+				"month":3,
+				"day":1,
+				"year":2012
+			},
+			"endDate":{
+				"month":8,
+				"day":8,
+				"year":2013
+			},
+			"marks":9.0,
+			"marks-type":"CGPA",
+			"marks-total":10,
+			"program_abrev":"X",
+			"program_fullForm":"Class 10",
+			"course":"CBSE CLASS 10",
+			"affliation":"CBSE",
+			"place":{
+				"dist":"Varanasi",
+				"state":"Uttar Pradesh",
+				"country":"India",
+				"zip-code":""
+			}
+		}	
+	},
+	"professional-exp-yr":1,
+	"professional-exp-mn":5,
+	"internship":{
+		"company-name":"LeadSquared",
+			"startDate":{
+				"month":3,
+				"day":6,
+				"year":2019
+			},
+			"endDate":{
+				"month":5,
+				"day":5,
+				"year":2020
+			},
+			"designation":"Full Stack developer",
+			"projects":[
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				}
+
+				]
+			},
+
+			"fulltime":
+			{	
+			"company-name":"Binary Stream",
+			"startDate":{
+				"month":3,
+				"day":6,
+				"year":2019
+			},
+			"endDate":{
+				"month":5,
+				"day":5,
+				"year":2020
+			},
+			"designation":"Full Stack developer",
+			"projects":[
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				},
+				{
+					"project-name":"",
+					"desc":"",
+					"startDate":{
+						"month":3,
+						"day":6,
+						"year":2019
+					},
+					"endDate":{
+						"month":5,
+						"day":5,
+						"year":2020
+					},
+					"learning":"",
+					"tech-used":"",
+					"challenges":""
+				}
+
+				]
+			},
+
+			"achievements":["fiijewf fweiojf iuwefewoif ewoif ew", "foieg regjier g"],
+
+		"skills":["Java", "C#", "C"],
+		"lang":["hindi", "english"],
+		"hobbies":["fkr", "oifwe f", "feoirf","freofg er"],
+		"contacts":{
+			"ph_number":"9140300647",
+			"mailid":"chaudharyritesh947@gmail.com",
+			"linkedin":"",
+			"facebook":"",
+			"instagram":""
+		}
+}
