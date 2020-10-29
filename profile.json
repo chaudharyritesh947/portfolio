@@ -1,8 +1,8 @@
 {
 	"name":"Ritesh Kumar",
 	"designation":"Software Enginner 1",
-	"education":{
-		"graduation":{
+	"education":[
+		{"graduation":{
 			"university_name":"Lovely Professional University",
 			"startDate":{
 				"month":8,
@@ -27,9 +27,10 @@
 				"country":"India",
 				"zip-code":""
 			}
+		}
 		},
 
-		"class_12":{
+		{"class_12":{
 			"university_name":"Sant Atulanand Convent School",
 			"startDate":{
 				"month":3,
@@ -54,9 +55,10 @@
 				"country":"India",
 				"zip-code":""
 			}
+		}
 		},
 
-		"class_10":{
+		{"class_10":{
 			"university_name":"Sant Atulanand Convent School",
 			"startDate":{
 				"month":3,
@@ -81,8 +83,9 @@
 				"country":"India",
 				"zip-code":""
 			}
+		}
 		}	
-	},
+	],
 	"professional-exp-yr":1,
 	"professional-exp-mn":5,
 	"internship":{
